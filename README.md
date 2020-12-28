@@ -1,4 +1,13 @@
 # myproject
+```
+  Pencarian gambar berdasarkan kata kunci yang dimasukan
+  
+  Tech Stack :
+    Vue
+    Vuex
+    Bootstrap-Vue
+    Vee-Validate Library Authentication
+```
 
 ## Project setup
 ```
